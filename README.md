@@ -57,11 +57,13 @@ This repository contains resources, exercises, and projects for the **"SQL Serve
 
 ## 📂 Repository Structure  
 ```
-sql-server-zero-to-hero/
-│───/exercises/ # Practice problems & solutions
-       │───/combine-two-tables/
-│───/projects/ # Real-world database projects
-│───README.md # This file
+📦 SQL-Server-Zero-to-Hero
+├───📂 exercises/            # Practice problems & solutions
+│   └───📂 combine-two-tables/
+│       ├───📜 Question.txt
+│       └───📜 Solution.sql
+├───📂 projects/            # Real-world database projects
+└───📜 README.md            # Project documentation
 ```
 
 ## 🔧 Prerequisites  
