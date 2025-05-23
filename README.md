@@ -58,10 +58,8 @@ This repository contains resources, exercises, and projects for the **"SQL Serve
 ## 📂 Repository Structure  
 ```
 sql-server-zero-to-hero/
-│───/docs/ # Course slides & cheatsheets
 │───/exercises/ # Practice problems & solutions
 │───/projects/ # Real-world database projects
-│───/scripts/ # SQL scripts & sample databases
 │───README.md # This file
 ```
 
